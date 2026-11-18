@@ -159,6 +159,7 @@ count(next) = count + 1   (when en = 1), wrapping from 1111 to 0000
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected state transition table.
 
 ## Output
+<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/5bbe191a-b1a7-4c26-a2f8-cbe7e15adee8" />
 
 <img width="609" height="173" alt="image" src="https://github.com/user-attachments/assets/34051c7c-087f-4759-a55f-1af528460ca0" />
 
